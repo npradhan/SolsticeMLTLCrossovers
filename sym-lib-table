@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name SolsticeXOver-lib)(type Legacy)(uri ${KIPRJMOD}/SolsticeXOver-lib.lib)(options "")(descr ""))
+)
